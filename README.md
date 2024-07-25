@@ -1,2 +1,1 @@
-# scai_f22
-Submission for Santa Cruz AI Fall 2022 competition. This project won 3rd place.
+Submission for Santa Cruz AI Fall 2022 competition. This project won 3rd place and was about earthquake prediction using various regression models. The project consisted of a presentation and Python Notebook.
